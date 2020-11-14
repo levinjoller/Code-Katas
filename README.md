@@ -1,6 +1,7 @@
 # Code-Katas
 Code Katas, just for fun.\
 The exercises are from the Coding Dojo Handbook.
+They were solved after the test driven development process procedure.
 ***
 
 ## Built with
